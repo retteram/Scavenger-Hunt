@@ -41,21 +41,21 @@ CREATE TABLE IF NOT EXISTS `clues` (
 --
 
 INSERT INTO `clues` (`key`, `title`, `clue`, `lat`, `long`) VALUES
-(1, 'The Silos', 'I hold grain and I''m very tall, climb me to the top and do not fall.', 39.507889, -84.736374),
-(2, 'Feeding Time', 'Go down to the stables and bring a carrot, find a big creatture with whom you can share it.', 39.508644, -84.723923),
-(3, 'Ghost Light', 'Ghosts of the night will come back to cause fright, when you park to the right and then flash your lights', 39.557396, -84.702919),
-(4, 'Skate Park', 'You may not be pro, but land a trick and your talents will grow', 39.506550, -84.754364),
-(5, 'Cat Daddy', 'Look for the cat as big as a yak, and then take a picture but don''t get attacked. ', 39.582310, -84.761841),
-(6, '10,000 Inches Under the Sea ', 'Get in the water and dive for the bottom, bring back some mud or remains from the autumn', 39.577183, -84.752739),
-(7, 'High Dive', 'Ever do a flip? Now is your time, climb up the latter and flip for your life.', 39.502655, -84.738480),
-(8, 'Tombstone Treasure', 'Look for a grave with a difference in age that ends in an eight and happened in May.', 39.496639, -84.727936),
-(9, 'Home Run Durby', 'Enter here and put on your cap, If your friend hits it home give him a clap, Be aware of the hours though, If you make a scene the police will show', 39.513229, -84.732422),
-(10, 'Cold Feet', 'Take off your shoes cause it''s time to get loose, do a whole lap till your feet turn blue like a bruise.', 39.503498, -84.737038),
+(1, 'Tunnels', 'Clue', 39.5000404, -84.728268),
+(2, 'Western Lake', 'Clue', 39.501700, -84.727407),
+(3, 'Green House', 'Clue', 39.503143, -84.725272),
+(4, 'Bridge', 'Clue', 39.503283, -84.726933),
+(5, 'Band Stand', 'Clue',39.502762, -84.729846),
+(6, 'Rock Wall', 'Clue', 39.502625, -84.737957),
+(7, 'Fountain', 'Clue', 39.505626, -84.731863),
+(8, 'The Seal', 'Clue', 39.508734, -84.734491),
+(9, 'Baseball', 'Clue', 39.513279, -84.732351),
+(10, 'Score Board', 'Clue', 39.515409, -84.733713),
 (11, 'Taxidermy', 'Here we have you looking for a beast, it''s name should start with G and it should have some really gruesome teeth. ', 39.508453, -84.733711),
 (12, 'Every Kiss Begins With K', 'Under the arch, a kiss will join arms, pucker up quick and then open your heart.', 39.508739, -84.733704),
-(13, 'Krishna', 'Do you dare to up your level? If 6 is the maximum, 20s the devil.', 39.510635, -84.743546),
-(14, 'Covered Bridge', 'All you must do is prove you were there, this by surprise is the easiest to dare.', 39.523983, -84.734764),
-(15, 'High Dive', 'This particular challenge will make such a splash, do a flip off the three and please don''t bust your ass. ', 39.502655, -84.738480);
+(13, 'Formal Gardens', 'Clue', 39.513519, -84.728923),
+(14, 'Marckam Conference', 'Clue', 39.512620, -84.724932),
+(15, 'Turtle Power', 'Clue', 39.503768, -84.737061);
 
 -- --------------------------------------------------------
 
