@@ -1,0 +1,5 @@
+[07-May-2013 13:16:56] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/esignby9/public_html/stuntHunt/stats.php on line 87
+[07-May-2013 13:16:57] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/esignby9/public_html/stuntHunt/stats.php on line 87
+[07-May-2013 13:17:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/esignby9/public_html/stuntHunt/stats.php on line 87
+[07-May-2013 15:26:58] PHP Parse error:  syntax error, unexpected $end in /home1/esignby9/public_html/stuntHunt/profile.php on line 43
+[09-May-2013 08:07:31] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/esignby9/public_html/stuntHunt/toPost.php on line 50

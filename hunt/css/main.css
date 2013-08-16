@@ -1,0 +1,269 @@
+
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+html {
+
+
+}
+body.indexPage {
+	background-image:url('img/index/top-image.png');
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-color: #000;
+	top:0;
+	left: 0px;
+}
+
+img.top {
+	width: 100%;
+	height: auto;
+	top: 0;
+	left: 0;
+}
+.container {
+	background-image: url('img/index/bigX.png');
+	background-repeat:no-repeat;
+	background-position: center;
+}
+
+img.map {
+	float: right;
+	width: 20%;
+	position: relative;
+}
+img.play {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 15%;
+	position: relative;
+}
+img.profile {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 25%;
+	position: relative;
+}
+img.list {
+	width: 20%;
+	position: relative;
+	padding-bottom: 40px;
+}
+
+
+
+#profBG{
+	background-image:url(../img/graybackground.png);	
+}
+
+#topBar{
+	float:left;
+	background-color: black;	
+	color:white;
+	width:100%;
+	margin-top:-16px;
+	margin-bottom:20px;
+	padding-top:15px;
+}
+
+#banner{
+	margin-top:-20px;
+	margin-left:25px;
+	margin-bottom: -45px;
+	width:80px;	
+}
+
+#userName{
+	text-align:right;
+	margin-right:15px;
+	margin-bottom:-10px !important;	
+}
+
+#huntTitle{
+	margin:0px;
+	color:white !important;	
+}
+
+#topBar img{float:left;margin-top:10px;}
+
+#topBar h3{margin-left:20%;}
+
+#backB{
+	width:35px;	
+}
+
+section{
+	margin:7px;
+	background-color:black;
+	color:white;
+	border: solid gray 1px;
+	padding:10px;	
+	height:110px;
+}
+
+#profilePic{
+	width:80px;	
+}
+
+.boxA{
+	float:left;
+	margin:3px;
+	margin-top:-15px;
+	border:solid gray 1px;	
+	width:60px;
+	height:101px;
+	text-align:center;
+	background-color:white;
+	color:black;
+}
+
+#shape2{
+	margin-top:50px;
+	background-color:black;
+	height:65px;
+	width:100%;
+	margin-left:50px;
+	
+	
+}
+#shape2 li{
+	list-style-type:none;
+	float:left;
+	width:33.3333%;
+}
+#logo{
+	margin-left:30px;
+}
+
+.sectionB{height:100%;}
+
+.boxA b{
+	font-size:66px;
+	margin-bottom:0px;
+}
+
+#boxNum{
+	margin-top:-10px;	
+}
+
+#subTitle{
+	margin-left:-15px;
+	font-size:15px !important;	
+}
+
+.stuntPic{
+	width:100%;
+}
+
+hr{clear:both;visibility:hidden;}
+
+.normalHr{visibility:visible;}
+
+#midBar{
+	height:30px;
+	display:block;
+	margin-left:8px;
+	margin-right:8px;
+	background-color:#3e687c;	
+}
+
+.midBar{
+	height:30px;
+	display:block;
+	margin-left:8px;
+	margin-right:8px;
+	background-color:#3e687c;	
+	color:white;
+}
+
+
+.midBar span{margin-left:15px;}
+
+
+
+
+
+
+
+/*-----------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+*/
+
+
+body.listPage {
+	background-image: url('img/graybackground.png');
+}
+.background {
+  fill: none;
+  pointer-events: all;
+}
+a.listLink {
+	text-decoration: none;
+}
+.switcher {
+	list-style-type: none;
+	
+}
+ol {
+	margin-left:-40px;
+	
+}
+li.listView {
+	list-style-type: none;
+	background-color: #fff;
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 3px 3px 1px #888888;
+	
+}
+span.listNumb {
+	font-family: 'CollegeRegular';
+	font-size: 1.2em;
+	margin-right: 30px;
+	color: #3e687c;
+}
+
+#userText{font-family:'CollegeRegular';font-size:18px;}
+.rankTitle{font-family:'CollegeRegular';font-size:26px;margin-left:10px;margin-bottom:-50px;}
+#userScore{font-family:MuseoSans-500;}
+
+span.listItem {
+	font-family: MuseoSans-500;
+	font-size: .9em !important;
+	margin-left: 30px;
+	color: #000;
+}
+.navBottom {
+	background-color: #000;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+tr {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+td {
+	background-color: #000;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+img.mapView {
+	width: 45px;
+	height: 45px;
+}
